@@ -1,0 +1,50 @@
+_local_|2025-09-09||Local changes not committed|True|True
+3f0c169|2025-08-11|aromero3003|style(modulo-seguidor): Acomodo el interruptor de la batería más al centro|False|True
+593306e|2025-08-11|aromero3003|refactor(modulo-seguidor): Reordeno la placa y actualizo los cambios del esquemático|False|True
+186a5ae|2025-08-11|aromero3003|refactor(modulo-seguidor): Elimino jumpers por cables soldados|True|False
+61f9d92|2025-07-29|aromero3003|docs(modulo-seguidor): Actualizo las previews de la placa y agrego un script para exportar|False|True
+e23c814|2025-07-27|aromero3003|style(modulo-seguidor): Agrego logo del club como huella|False|True
+847a677|2025-07-26|aromero3003|refactor(modulo-seguidor): Actualizo medidas y agrego zonas de exclusion para facilitar soldadura|False|True
+717f445|2025-07-26|CinLopez13|cambios pequeños|False|True
+62e17d5|2025-07-26|aromero3003|refactor(modulo-seguidor): Reordeno los componentes del pcb|False|True
+c44c960|2025-07-26|aromero3003|refactor(modulo-seguidor): Elimino jumpers de entradas de un motor del puente H|True|False
+fe45996|2025-07-26|aromero3003|refactor(modulo-seguidor): Optimizo espacio en la pcb|False|True
+a6031ac|2025-07-26|aromero3003|reactor(modulo-seguidor): Modifico las pistas de VCC|True|False
+29ff715|2025-07-26|aromero3003|refactor(modulo-seguidor): Acomodo componentes de la batería, y pin de 5v del sensor|False|True
+022c8e7|2025-07-26|aromero3003|refactor!(modulo-seguidor): Actualizo la pcb con los cambios del esquemático|False|True
+3e6e19b|2025-07-26|aromero3003|refactor(modulo-seguidor): Cambio pines de led y de boton del seguidor|True|False
+f755f08|2025-07-26|aromero3003|refactor!(Modulo seguidor): Cambio pines de sensores a analógicos, PWM, pin de botón, y led|True|False
+301c531|2025-07-03|CinLopez13|Tamaño de pads|False|True
+b882aa6|2025-05-27|CinLopez13|Cambio de pistas|False|True
+02951e6|2025-05-24|aromero3003|refactor(modulo-seguidor): Redistribución y cambio de entrada del puente por housing|False|True
+25c4783|2025-05-24|aromero3003|refactor(modulo-seguidor): Cambio conexiones de entrada del l298 por housings|True|False
+6d3b2c0|2025-05-24|CinLopez13|Cambio de pines de motores|True|False
+3d606ea|2025-05-24|CinLopez13|Update modulo_seguidor.kicad_sch|True|False
+dde5c8b|2025-05-24|CinLopez13|Update modulo_seguidor.kicad_pcb|False|True
+d8a6d4c|2025-05-24|CinLopez13|feat(Modulo_seguidor) "Diseño con todo conectado + detalles"|False|True
+8fc0710|2025-05-24|CinLopez13|Placa PH - Huellas y ubicaciones|False|True
+53d68d7|2025-05-23|aromero3003|refactor(modulo-seguidor): Continuo el boceto de la placa|False|True
+d7b1e41|2025-05-23|aromero3003|refactor(modulo-seguidor): Cambio huella de motores a Housing|True|False
+8c96d70|2025-05-23|aromero3003|refactor!(modulo-seguidor): Modifico forma de la placa|False|True
+a907817|2025-05-23|aromero3003|refactor(modulo-seguidor): Cambio resistencia del LED de THT por SMD|True|False
+da26b6a|2025-05-23|aromero3003|refactor(seguidor): Reordeno los pines del modulo sensor|True|False
+dcc4603|2025-05-11|aromero3003|refactor(modulo-seguidor): Reorganizo vías y limpio carpeta de puente h|False|True
+b7c8864|2025-05-11|aromero3003|feat(modulo_seguidor): Agrego boceto PCB del seguidor + puente H|False|True
+5864558|2025-05-10|aromero3003|feat(modulo-seguidor): Agrego placa con el seguidor y el puente h incluidos|False|True
+83e5719|2025-05-10|aromero3003|feat(seguidor): Corrijo errores de DRC esquemático|True|False
+b80cedf|2025-05-10|aromero3003|refactor(modulo_seguidor): Merge del seguidor y el puente H|True|False
+81ad14f|2024-11-16|aromero3003|feat(puente-h): Agrego esquemático del puente H|True|False
+c3be216|2024-11-04|aromero3003|feat(seguidor): Agrego puente H y motores al esquemático|True|False
+3dc8913|2024-10-13|aromero3003|feat(modulo_seguidor): Agrego partes no perforadas y lo referencio en la documentacion|False|True
+5264b5e|2024-10-12|aromero3003|refactor(modulo_seguidor): Intercambio dos pines para hacer los cables más cortos|True|True
+b218f7f|2024-10-12|aromero3003|refactor: Cambio las conexiones en los pines del modulo seguidor para compactar la pcb|True|True
+b25e97a|2024-10-12|aromero3003|feat: Agrego modelo 3d .wrl del arduino nano|False|True
+ea0ca30|2024-10-12|aromero3003|refactor: Hago las conexiones n poco más cortas y rectas|False|True
+5aebdf4|2024-10-12|aromero3003|refactor: Reordeno la pcb del modulo seguidor y sus conexiones|False|True
+999c265|2024-10-12|aromero3003|feat: Agrego los cables en la pcb del modulo seguidor|False|True
+400fbea|2024-10-06|aromero3003|docs: Agrego TODOs, previews y documento la placa del modulo_seguidor|False|True
+dff79df|2024-10-06|aromero3003|style: Agrego las medidas de los lados en la pcb del modulo seguidor|False|True
+f69c7a4|2024-10-06|aromero3003|feat: Agrego boceto de la placa del modulo seguidor y su preview|False|True
+fb2e1ba|2024-10-06|aromero3003|refactor: Actualizo huellas del esquemático|True|False
+3589eea|2024-10-06|aromero3003|feat: Asigno las huellas a los componentes|True|False
+ed61f3a|2024-10-06|aromero3003|feat: Agrego esquemático de la placa del seguidor|True|False

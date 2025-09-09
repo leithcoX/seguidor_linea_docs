@@ -1,0 +1,34 @@
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,Sim.Device,Sim.Pins
+1,Arduino Nano v2.x,Arduino_Nano_v2.x,A1,Arduino_Nano_v2.x,Arduino_Nano,1, ,https://www.arduino.cc/en/uploads/Main/ArduinoNanoManual23.pdf,,
+2,"Unpolarized capacitor, small symbol",C_Small,C3 C4,100nF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,2, ,~,,
+3,Unpolarized capacitor,C,C1 C2,1u,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,2, ,~,,
+4,Diode,D,D2 D3 D4 D5 D6 D7 D8 D9,D,D_DO-41_SOD81_P7.62mm_Horizontal,8, ,~,D,1=K 2=A
+5,Light emitting diode,LED,D1,LED,LED_D5.0mm,1, ,~,,1=K 2=A
+6,"Generic connector, single row, 01x02, script generated",Conn_01x02_Socket,J1,Battery,Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical,1, ,~,,
+7,"Generic connector, single row, 01x08, script generated",Conn_01x08_Pin,J6,puerto sensores,PinHeader_1x08_P2.54mm_Vertical,1, ,~,,
+8,DC Motor,Motor_DC,M2,Motor_DER,Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical,1, ,~,,
+9,DC Motor,Motor_DC,M1,Motor_IZQ,Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical,1, ,~,,
+10,"Resistor, US symbol",R_US,R3 R4,33,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2, ,~,,
+11,"Resistor, US symbol",R_US,R2,330,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,1, ,~,,
+12,"Resistor, US symbol",R_US,R1,1k,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,1, ,~,,
+13,"Switch, single pole double throw",SW_Nidec_CAS-120A1,SW2,SW_Nidec_CAS-120A1,Converter_DCDC_TRACO_TSR2-xxxx_THT,1, ,https://www.nidec-components.com/e/catalog/switch/cas.pdf,,
+14,"Push button switch, generic, two pins",SW_Push,SW1,SW_Push,SW_PUSH_6mm,1, ,~,,
+15,"Dual full bridge motor driver, up to 46V, 4A, Multiwatt15-V",L298N,U2,L298N,TO-220-15_P2.54x5.08mm_StaggerOdd_Lead4.58mm_Vertical,1, ,http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000240.pdf,,
+16,"Positive 1A 35V Linear Regulator, Fixed Output 6V, TO-220",LM7806_TO220,U1,LM7806_TO220,TO-220-3_Vertical,1, ,https://www.onsemi.cn/PowerSolutions/document/MC7800-D.PDF,,
+
+
+
+
+
+Project info:
+Schematic:,modulo_seguidor
+Variant:,default
+Revision:,
+Date:,2025-08-31_02-43-57
+KiCad Version:,9.0.1+1
+Statistics:
+Component Groups:,16
+Component Count:,26
+Fitted Components:,26
+Number of PCBs:,1
+Total Components:,26
